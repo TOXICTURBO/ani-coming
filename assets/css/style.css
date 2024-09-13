@@ -15,6 +15,15 @@ body {
   box-sizing: border-box;
 }
 
+.logo span {
+    font-size: 24px; /* Adjust font size */
+    font-weight: bold; /* Make the text bold */
+    color: white; /* Change text color to white */
+    text-transform: uppercase; /* Capitalize all letters */
+    text-decoration: none; /* Remove underline */
+}
+
+
 a:focus,
 input:focus,
 textarea:focus,
